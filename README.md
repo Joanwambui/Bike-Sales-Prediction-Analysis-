@@ -1,5 +1,6 @@
-# Bike-Sales-Prediction-Analysis-
-An Excel project to accurately analyze the top 1000 customers to be targeted for the purchase of bicycles for Sprocket Central Company.
+# Bike-Sales-Prediction-Analysis- 
+![](imgs/Homeslider_.jpg)
+# An Excel project to accurately analyze the top 1000 customers to be targeted for the purchase of bicycles for Sprocket Central Company.
 
 ![](imgs/sprocket_central_logo.png)
 
