@@ -6,6 +6,7 @@
 
 In this project several steps were conducted to come up with the final analysis of the first 1000 customers to be targeted when the company would be doing its next sales pitch.
 My first task was to take a look at the dataset provided and identify all data quality issues with the dataset.Some of the issues I found included:
+![](imgs/
 
 
 After data-cleaning my next task was data exploration to familiarize myself better with the data.The dataset had some interesting factors that I thought would provide key insights about our customers.Some of these factors included:Age, Bike related purchases over the last 3 years, Wealth segmentation and Number of Cars owned.I created pivot tables and visualizations to help others understand how these factors would be important in our analysis for accurate insights as illustrated below:
