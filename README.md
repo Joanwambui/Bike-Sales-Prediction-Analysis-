@@ -12,7 +12,7 @@ After data-cleaning my next task was data exploration to familiarize myself bett
 
 
 
-Finally after data exploration I went ahead to perform RFM analysis,a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns.This seemedbest suited for my analysis in Excel.The formula used was as follows:
+Finally after data exploration I went ahead to perform RFM analysis,a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns.This seemed best suited for my analysis in Excel.The formula used was as follows:
 
 
-In conclusion from the analysis performed ,the following were my findings
+In conclusion from the analysis performed ,the following were my findings:
